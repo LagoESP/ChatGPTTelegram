@@ -1,1 +1,1 @@
-[]
+[{'role': 'user', 'content': 'Qué hora es?'}, {'role': 'assistant', 'content': '\n\nLo siento, como modelo de lenguaje de AI, no tengo acceso en tiempo real, por lo que no puedo decirte qué hora es en este momento. Te recomiendo que verifiques la hora en un reloj o dispositivo electrónico.'}]
