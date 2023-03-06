@@ -1,1 +1,1 @@
-[]
+[{'role': 'user', 'content': 'Me recuerdas?'}, {'role': 'assistant', 'content': '\n\nComo IA, no tengo la capacidad de recordar personas. Por tanto, es posible que no te recuerde, pero siempre estoy aquí para ayudarte en lo que necesites.'}]
