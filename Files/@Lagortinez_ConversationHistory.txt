@@ -1,1 +1,1 @@
-[{'role': 'user', 'content': 'Hola'}, {'role': 'assistant', 'content': '¡Hola! ¿En qué puedo ayudarte hoy?'}]
+[]
