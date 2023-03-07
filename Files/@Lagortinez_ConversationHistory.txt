@@ -1,1 +1,1 @@
-[{'role': 'user', 'content': 'Do you speak ukranian?'}, {'role': 'assistant', 'content': '\n\nAs an AI language model, I can understand and generate text in Ukrainian, but I do not "speak" any language as I do not have a physical body or voice.'}]
+[]
