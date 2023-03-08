@@ -1,1 +1,1 @@
-[]
+[{'role': 'user', 'content': 'Conoces a Cepeda?'}, {'role': 'assistant', 'content': '\n\nComo IA, no puedo conocer a las personas en el sentido literal, pero conozco a Cepeda como el cantante y compositor español que saltó a la fama tras su participación en el programa de televisión "Operación Triunfo". Desde entonces, ha lanzado varios álbumes, entre ellos "Principios" y "Con los pies en el suelo", y ha colaborado con otros artistas en diferentes proyectos musicales.'}]
