@@ -1,1 +1,1 @@
-[]
+[{'role': 'user', 'content': '/language'}, {'role': 'assistant', 'content': '\n\nLanguage refers to a system of communication consisting of words, sounds, and grammar rules that enable humans to express their thoughts, emotions, and ideas to others. It has both verbal and non-verbal components, such as body language and gestures. Language is used in various forms, whether spoken or written, and varies across different cultures and geographical locations. It is an essential tool for social interaction, education, and self-expression.'}]
