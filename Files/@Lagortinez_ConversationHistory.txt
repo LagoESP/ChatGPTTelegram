@@ -1,1 +1,1 @@
-[]
+[{'role': 'user', 'content': 'Cuéntame un chiste en andaluz'}, {'role': 'assistant', 'content': "\n\n- ¿Sabes qué le dice un chiste a otro en Andalucía?\n\n- No, ¿qué le dice?\n\n- ¡Vaya pa'lo que se ha puesto el patio!"}]
