@@ -1,1 +1,1 @@
-[]
+[{'role': 'user', 'content': 'Cuéntame un chiste en andaluz'}, {'role': 'assistant', 'content': '\n\n¿Cuál es el animal que tiene la lengua más larga? El camaleón, porque es el único que puede lamerse los huevos desde un árbol de mango a dos kilómetros de distancia. ¡Olé!'}]
