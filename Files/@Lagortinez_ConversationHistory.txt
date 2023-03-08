@@ -1,1 +1,1 @@
-[{'role': 'user', 'content': 'Buenos días!'}, {'role': 'assistant', 'content': '¡Buenos días! ¿En qué puedo ayudarte hoy?'}]
+[{'role': 'user', 'content': 'Buenos días!'}, {'role': 'assistant', 'content': '¡Buenos días! ¿En qué puedo ayudarte hoy?'}, {'role': 'user', 'content': 'ping'}, {'role': 'assistant', 'content': 'Pong! :) ¿Necesitas ayuda en algo específico o tienes alguna pregunta? Estoy aquí para servirte.'}]
