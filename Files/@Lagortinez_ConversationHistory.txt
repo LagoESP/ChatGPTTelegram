@@ -1,1 +1,1 @@
-[]
+[{'role': 'user', 'content': 'Existe amazon vine en austria?'}, {'role': 'assistant', 'content': '\n\nSí, Amazon Vine está disponible en Austria. Sin embargo, el programa puede tener requisitos y restricciones específicas para los usuarios austríacos.'}]
