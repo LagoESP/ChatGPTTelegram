@@ -1,1 +1,1 @@
-{'usedTokens': 8655, 'ownedTokens': 993345.0, 'lang': 'es', 'chatID': 298181113}
+{'usedTokens': 9550, 'ownedTokens': 992450.0, 'lang': 'es', 'chatID': 298181113}
