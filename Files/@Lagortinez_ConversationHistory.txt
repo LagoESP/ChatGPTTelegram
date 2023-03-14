@@ -1,1 +1,1 @@
-[]
+[{'role': 'user', 'content': 'Qué hace esta función dentro de un ribbon de dynamics 365?'}, {'role': 'assistant', 'content': '\n\nLo siento, como modelo de lenguaje de AI no tengo contexto o acceso a un programa de Dynamics 365 y no puedo responder esta pregunta. Si pudieras proporcionar más detalles sobre la función en cuestión, estaré encantado de ayudar con una respuesta más precisa.'}]
